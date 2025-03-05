@@ -1,0 +1,1 @@
+Alex, a passionate linguist and culture enthusiast, frequently visits the website Francophonie.org to learn about the French-speaking world. Alex is known for their love of cryptography and steganography, often hiding messages in unsuspecting places.
