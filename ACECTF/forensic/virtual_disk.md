@@ -32,6 +32,9 @@ Use the `fls` command to read files from the disk:
 fls -o <offset> disk.vdi
 ```
 
+![Screenshot from 2025-03-05 20-49-14](https://github.com/user-attachments/assets/19f66f97-a27c-46f1-86f6-b7d1a1997527)
+
+
 Upon inspection, you will find multiple files with identical names. Among them, two files contain a **flag** and a **key**.
 
 ### Step 3: Extract Files
@@ -61,5 +64,4 @@ ACECTF{7r3_q1jr3b3be3_o37g33a_c0g_4xr_o3}
 
 ---
 
-Good luck, and happy hacking!
 
