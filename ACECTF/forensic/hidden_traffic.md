@@ -28,6 +28,3 @@ You need to decode this noisy message to retrieve the flag.
 ```
 ACECTF{p1n6_0f_D347h}
 ```
-
----
-
