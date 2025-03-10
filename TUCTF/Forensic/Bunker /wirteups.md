@@ -32,9 +32,6 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.UIManager;
 
-/* compiled from: bunker.java */
-/* renamed from: Bunker  reason: default package */
-/* loaded from: Bunker.jar:Bunker.class */
 class Bunker extends JFrame implements ActionListener {
     static JFrame f;
     static JTextField l;
