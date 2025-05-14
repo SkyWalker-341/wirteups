@@ -16,6 +16,9 @@ A `.vsix` file is a ZIP archive. Use `unzip` to extract contents:
 unzip vscode-quick-notes-ctf-0.1.0.vsix
 ```
 
+![Screenshot from 2025-05-14 22-54-01](https://github.com/user-attachments/assets/6d9b85c7-96cf-4447-ba74-6123b14c44d3)
+
+
 This reveals an obfuscated JavaScript file (`extension.js`).
 
 ```
